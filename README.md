@@ -1,4 +1,4 @@
-# FinOptix — Algo Trading System
+# FinOptix — Algo Trading & Backtesting System
 
 > A rules-based quantitative trading engine built from scratch, featuring Walk-Forward Optimization, ATR-based risk management, and dual market regime detection — tested across 5 crypto assets over 5 years of live market data.
 
