@@ -18,6 +18,8 @@
 > All results are strictly out-of-sample with 0.1% transaction costs applied per trade.
 
 ---
+<img width="1740" height="711" alt="XRP-USD_OOS_vs_Benchmark" src="https://github.com/user-attachments/assets/1b60960f-6f5c-45f9-8005-40ae8429afd4" />
+
 
 ## System Architecture
 
