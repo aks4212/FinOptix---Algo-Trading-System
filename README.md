@@ -19,18 +19,6 @@
 
 ---
 
-## What This Project Is
-
-This is **not** a tutorial replication or paper implementation.  
-Every component — from signal generation to backtesting to optimization — is built from scratch in Python.
-
-The goal was to build a **statistically honest** backtesting framework that avoids the most common pitfalls in quantitative research:
-- **No lookahead bias** — signals only use data available at time of decision
-- **No in-sample overfitting** — parameters selected on training data, evaluated on unseen test windows
-- **Realistic transaction costs** — 0.1% per trade applied to all entries and exits
-
----
-
 ## System Architecture
 
 ```
