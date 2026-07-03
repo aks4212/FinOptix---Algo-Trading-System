@@ -19,8 +19,8 @@
 
 ---
 ## Strategy Tearsheet (XRP-USD)
-![XRP Tearsheet](<img width="1740" height="711" alt="XRP-USD_OOS_vs_Benchmark" src="https://github.com/user-attachments/assets/b140fc75-503c-4277-98a0-3356bd6ac388" />
-)
+<img width="1740" height="711" alt="XRP-USD_OOS_vs_Benchmark" src="https://github.com/user-attachments/assets/4951c4b3-84f8-4767-87b8-2f6856d3c1f7" />
+
 
 
 ## System Architecture
